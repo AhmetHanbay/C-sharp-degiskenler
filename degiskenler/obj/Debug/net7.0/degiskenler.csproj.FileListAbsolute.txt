@@ -1,0 +1,15 @@
+D:\c#_BTK\degiskenler\bin\Debug\net7.0\degiskenler.exe
+D:\c#_BTK\degiskenler\bin\Debug\net7.0\degiskenler.deps.json
+D:\c#_BTK\degiskenler\bin\Debug\net7.0\degiskenler.runtimeconfig.json
+D:\c#_BTK\degiskenler\bin\Debug\net7.0\degiskenler.dll
+D:\c#_BTK\degiskenler\bin\Debug\net7.0\degiskenler.pdb
+D:\c#_BTK\degiskenler\obj\Debug\net7.0\degiskenler.csproj.AssemblyReference.cache
+D:\c#_BTK\degiskenler\obj\Debug\net7.0\degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#_BTK\degiskenler\obj\Debug\net7.0\degiskenler.AssemblyInfoInputs.cache
+D:\c#_BTK\degiskenler\obj\Debug\net7.0\degiskenler.AssemblyInfo.cs
+D:\c#_BTK\degiskenler\obj\Debug\net7.0\degiskenler.csproj.CoreCompileInputs.cache
+D:\c#_BTK\degiskenler\obj\Debug\net7.0\degiskenler.dll
+D:\c#_BTK\degiskenler\obj\Debug\net7.0\refint\degiskenler.dll
+D:\c#_BTK\degiskenler\obj\Debug\net7.0\degiskenler.pdb
+D:\c#_BTK\degiskenler\obj\Debug\net7.0\degiskenler.genruntimeconfig.cache
+D:\c#_BTK\degiskenler\obj\Debug\net7.0\ref\degiskenler.dll

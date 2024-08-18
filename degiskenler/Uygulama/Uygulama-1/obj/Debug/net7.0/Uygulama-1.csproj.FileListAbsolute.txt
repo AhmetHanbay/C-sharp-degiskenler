@@ -1,0 +1,15 @@
+D:\c#_BTK\degiskenler\Uygulama\Uygulama-1\obj\Debug\net7.0\Uygulama-1.csproj.AssemblyReference.cache
+D:\c#_BTK\degiskenler\Uygulama\Uygulama-1\obj\Debug\net7.0\Uygulama-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#_BTK\degiskenler\Uygulama\Uygulama-1\obj\Debug\net7.0\Uygulama-1.AssemblyInfoInputs.cache
+D:\c#_BTK\degiskenler\Uygulama\Uygulama-1\obj\Debug\net7.0\Uygulama-1.AssemblyInfo.cs
+D:\c#_BTK\degiskenler\Uygulama\Uygulama-1\obj\Debug\net7.0\Uygulama-1.csproj.CoreCompileInputs.cache
+D:\c#_BTK\degiskenler\Uygulama\Uygulama-1\bin\Debug\net7.0\Uygulama-1.exe
+D:\c#_BTK\degiskenler\Uygulama\Uygulama-1\bin\Debug\net7.0\Uygulama-1.deps.json
+D:\c#_BTK\degiskenler\Uygulama\Uygulama-1\bin\Debug\net7.0\Uygulama-1.runtimeconfig.json
+D:\c#_BTK\degiskenler\Uygulama\Uygulama-1\bin\Debug\net7.0\Uygulama-1.dll
+D:\c#_BTK\degiskenler\Uygulama\Uygulama-1\bin\Debug\net7.0\Uygulama-1.pdb
+D:\c#_BTK\degiskenler\Uygulama\Uygulama-1\obj\Debug\net7.0\Uygulama-1.dll
+D:\c#_BTK\degiskenler\Uygulama\Uygulama-1\obj\Debug\net7.0\refint\Uygulama-1.dll
+D:\c#_BTK\degiskenler\Uygulama\Uygulama-1\obj\Debug\net7.0\Uygulama-1.pdb
+D:\c#_BTK\degiskenler\Uygulama\Uygulama-1\obj\Debug\net7.0\Uygulama-1.genruntimeconfig.cache
+D:\c#_BTK\degiskenler\Uygulama\Uygulama-1\obj\Debug\net7.0\ref\Uygulama-1.dll
